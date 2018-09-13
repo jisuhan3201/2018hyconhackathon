@@ -1,0 +1,10 @@
+{
+  "name": "2018hyconhackathon",
+  "version": "1.0.0",
+  "description": "hycon hakathon seoul",
+  "main": "index.js",
+  "repository": "https://github.com/jisuhan3201/2018hyconhackathon",
+  "author": "jisuhan3201 <jisu.han3201@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
